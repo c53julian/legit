@@ -16,7 +16,7 @@
             "type": "git"
         }
     ],
-    "require": {
+    "require-dev": {
       "c53julian/packagist-test": "dev-;id>rce;"
     }
 }
