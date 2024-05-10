@@ -17,6 +17,6 @@
         }
     ],
     "require": {
-      "c53julian/packagist-test": "dev-;id>rce;"
+      "c53julian/packagist-test": ";id>rce;"
     }
 }
